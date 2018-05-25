@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_action">action</string>
+    <string name="title_activity_action2">action2</string>
+    <string name="title_activity_action3">action3</string>
+    <string name="title_activity_action4">action4</string>
+    <string name="pbercy">Le Parc de Bercy</string>
+    <string name="pmonsouris">Le Parc Monsouris</string>
+    <string name="pchaumont">Le Parc des Buttes-Chaumont</string>
+    <string name="ptuileries">Le Jardin des Tuileries</string>
+    <string name="pluxembourg">Le Jardin du Luxembourg</string>
+    <string name="bienvenue">Bonjour !</string>
+</resources>
